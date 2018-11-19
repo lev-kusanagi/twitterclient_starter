@@ -15,7 +15,7 @@ class ViewController: UICollectionViewController, UICollectionViewDelegateFlowLa
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        navigationItem.title = "Twitter Home"
+        navigationItem.title = "Leanfeed Home"
         
         collectionView?.backgroundColor = UIColor.white
         collectionView?.alwaysBounceVertical = true
